@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @dayspring422
-- 👀 I’m interested in ... astrophysics and engineering
-- 🌱 I’m currently learning ...quantum computing but am always open to science
-- 💞️ I’m looking to collaborate on ...software designe
-- 📫 How to reach me ...
+Hello there! 👋 I'm Dayspring Idahosa, a passionate computer science student with a knack for turning ideas into code. Currently pursuing a Bachelor’s degree in Computer Science and Mathematical Physics, I'm driven by a love for problem-solving and a curiosity for exploring new technologies. My journey in computer science has taken me from automating simple tasks to delving into the complexities of computer vision and network configurations.
 
-<!---
-dayspring422/dayspring422 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My experiences include developing automation scripts, creating data visualization dashboards, and working on computer vision projects such as facial recognition and image detection. I thrive on challenges and enjoy collaborating with others to push the boundaries of what’s possible in the tech world. Additionally, I have a strong interest in quantum computing and its potential to revolutionize various fields.
+
+I'm excited about the future of technology and am always eager to learn and contribute to impactful projects. Let's connect and explore the endless possibilities in computing together! 🌟
