@@ -13,7 +13,7 @@ I’m a double major in **Computer Science and Physics** at Stetson University, 
 
 ---
 
-### 🧩 Skills & Tools
+### Skills & Tools
 - **Languages & Frameworks:** Python, C++, Java, Swift, SQL, Django, React, Flutter  
 - **AI/ML Libraries:** TensorFlow, PyTorch, CoreML, OpenCV, NumPy, Pandas  
 - **Quant & Data Tools:** Prophet, yFinance, Plotly, Matplotlib, Tableau  
@@ -22,14 +22,14 @@ I’m a double major in **Computer Science and Physics** at Stetson University, 
 
 ---
 
-### 🌟 Background
+###  Background
 - **Software Development Engineer Intern @ EdTech Startup (Lena Africa):** Optimized front-end (Flutter) for low-connectivity regions and scaled backend workflows with **Django + PostgreSQL + Redis**, cutting LMS load times by 40%.  
 - **Undergraduate Research Assistant @ Stetson University:** Built predictive models and pipelines in **Python + SQL** to guide academic program decision-making while ensuring data privacy.  
 - **Awards:** Presidential Fellows Scholar — full-ride merit scholarship for academic achievement, intellectual curiosity, and leadership potential.  
 
 ---
 
-### 📬 Let’s Connect
+###  Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/dayspring-idahosa-b56833278/)  
 - [GitHub](https://github.com/dayspring422)  
 
