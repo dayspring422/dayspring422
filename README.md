@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Dayspring Idahosa  
+# Hi, I'm Dayspring Idahosa  
 
 I’m a double major in **Computer Science and Physics** at Stetson University, driven by a passion for solving complex problems at the intersection of **AI, scalable systems, and quantitative research**. My projects span **autonomous systems, real-time simulations, computer vision, and market modeling**—all grounded in both theory and hands-on engineering.  
 
 ---
 
-### 🚀 Selected Projects
+### Selected Projects
 - **AI-Powered Photo Curation (PicSavior):** Built a macOS/iOS app in **SwiftUI + CoreML + Vision** with hybrid models (OpenCV, DeepFace, TensorFlow NIMA), achieving **88% accuracy vs. human benchmarks** and cutting manual curation by 85%.  
 - **Order Flow Imbalance (OFI) Calculator:** Designed a Python/Flask tool to compute OFI from order book snapshots, visualizing liquidity shifts and backtesting predictive signals in high-frequency trading.  
 - **Equity Forecasting Engine:** Developed a dashboard with **Prophet, yFinance, and Streamlit**, delivering interactive time-series forecasts and insights for equity markets.  
