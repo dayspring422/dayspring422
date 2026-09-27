@@ -1,8 +1,7 @@
 Dayspring Idahosa
 CS + Physics @ Stetson University '27 · Presidential Fellow
 
-I keep coming back to one question: how does complex behavior emerge from simple rules? I chase it through collective motion, chaotic systems, market microstructure, and AI safety, usually by building a simulation first and asking questions second.
-
+I keep coming back to one question: how does complex behavior emerge from simple rules? 
 What I'm working on
 
 Collective motion in living tissue. Extending the Vicsek model with viscous and Maxwell viscoelastic terms to explain cell movement during axolotl epiboly, fit against experimental explant data (with Dr. Holley Lynch). Along the way I built an analysis tool for microscopy images and lab data that we now use for soft matter research, plus a Streamlit app for exploring the model interactively.
